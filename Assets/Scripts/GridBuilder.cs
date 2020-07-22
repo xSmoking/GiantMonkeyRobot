@@ -108,4 +108,9 @@ public class GridBuilder : MonoBehaviour
         // Return new string
         return tmp;
     }
+
+    public void Quit()
+    {
+        Application.Quit();
+    }
 }
