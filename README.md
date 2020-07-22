@@ -1,1 +1,3 @@
-# GiantMonkeyRobot-
+# GiantMonkeyRobot
+
+Unity C# candidate programming challenge
