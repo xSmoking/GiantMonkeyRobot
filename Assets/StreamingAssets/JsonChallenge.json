@@ -6,6 +6,7 @@
     "Name",
     "Role",
     "Nickname",
+    "Phone",
   ],
   "Data" :
   [
@@ -14,24 +15,28 @@
         "Name" : "John Doe",
         "Role" : "Engineer",
         "Nickname" : "KillerJo",
+        "Phone" : "123456",
     },
     {
         "ID" : "023",
         "Name" : "Claire Dawn",
         "Role" : "Engineer",
         "Nickname" : "Claw",
+        "Phone" : "123456",
     },
     {
         "ID" : "012",
         "Name" : "Paul Beef",
         "Role" : "Designer",
         "Nickname" : "BeefyPaul",
+        "Phone" : "123456",
     },
     {
         "ID" : "056",
         "Name" : "Sally Sue",
         "Role" : "Artist",
         "Nickname" : "Sue5555",
+        "Phone" : "123456",
     },
   ]
 }

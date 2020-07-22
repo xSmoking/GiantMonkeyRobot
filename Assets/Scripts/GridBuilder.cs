@@ -32,7 +32,7 @@ public class GridBuilder : MonoBehaviour
         {
             // Read text and remove all spaces and line breaks
             string jsonString = File.ReadAllText(path);
-            jsonString = jsonString.Trim().Replace(" ", "").Replace("\r", "").Replace("\n", "");
+            jsonString = jsonString.Replace(" ", "").Replace("\r", "").Replace("\n", "");
             jsonString = RemoveTrailingComma(jsonString);
 
             // Deserialize Json

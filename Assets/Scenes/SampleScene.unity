@@ -386,7 +386,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7c41acccb552e304c85260f815c11355, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  filename: JsonChallenge2.json
+  filename: JsonChallenge.json
   gridTitle: {fileID: 208771582}
   grid: {fileID: 1948606302}
   gridRowPrefab: {fileID: 8900934149593048107, guid: ef18fc3cef0361a4cad464dc690d6ebd,
